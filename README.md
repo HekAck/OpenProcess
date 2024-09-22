@@ -26,3 +26,4 @@ C:\> Openprocesso.exe 1492
 [!] THIS IS THE HANDLE OF THE PROCESS(1492) -> 0xE2
 
 ```
+Após isso, se passará 5 segundos e a handle será fechada e o código será finalizado.
