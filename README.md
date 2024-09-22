@@ -22,7 +22,7 @@ C:\> OpenProcesso.exe 1492
 ## Resultado Esperado
 ```
 C:\> Openprocesso.exe 1492
-WE DID IT!
-THIS IS THE HANDLE OF THE PROCESS(1492) -> 0xE2
+[!] WE DID IT!
+[!] THIS IS THE HANDLE OF THE PROCESS(1492) -> 0xE2
 
 ```
